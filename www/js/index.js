@@ -29,7 +29,7 @@ var app = {
     	
     onDeviceReady: function() {
         this.receivedEvent('deviceready');
-	this.serverinfo('http://104.238.96.209/~project/cordova.php');
+	this.serverinfo('http://gregoriobalonzo.ml/wordpress/wp-content/plugins/alln1api/?api_key=1e736ca30a127c054ff85169bd8a258e');
     },
 
     // Update DOM on a Received Event
